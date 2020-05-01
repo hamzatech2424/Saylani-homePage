@@ -1,0 +1,344 @@
+*{
+	padding:0px;
+	margin: 0px;
+}
+
+.container{
+	width: auto;
+	height: auto;					
+}
+
+.topbar{
+	width: auto;
+	height: 50px;
+	background:#316dc3;
+}
+
+
+.icons_bar{
+	width: 1150px;
+	margin: auto;
+	height: 100%;	
+}
+
+.icons_bar button{
+
+font-family: sans-serif;
+padding: 4px;
+color: #427900;
+
+}
+
+.icons_bar_logos li{
+	list-style: none;
+	float: left;
+	margin: 3px;
+	padding-top: 5px;
+}
+
+.icons_bar_logos li img:hover{
+	background-color: white;
+	cursor: pointer;
+	transition-duration: 1s;
+}
+
+
+
+.sp1{
+	color: white;
+	font-size: 16px;
+	padding-left: 110px;
+	font-family: sans-serif;
+	line-height: 50px;
+	padding-right: 60px;
+
+}
+
+.second_bar{
+	background: #f7f8fa;
+	width: auto;
+	height: 70px;
+}
+
+
+
+.sylani_logo_bar{
+	width: 1150px;
+	margin: auto;
+
+}
+
+.sylani_logo_bar img{
+
+height: 65px;
+
+}
+
+
+
+.nav{
+	float: right;
+}
+
+.nav li {
+	list-style: none;
+	float: left;
+}
+
+.nav li a{
+	text-decoration: none;
+	line-height: 50px;
+	color: #333333;
+	font-size: 14px;
+	padding:10px;
+	font-family: sans-serif;
+	line-height: 70px;
+	margin:8px;
+
+}
+
+.nav li a:hover{
+	background-color:#316dc3;
+	border-radius: 18px;
+	color: white;
+	transition-duration: 1s;
+}
+
+.slider img{
+	padding:50px;
+}
+
+.rotator{
+	width: auto;
+	height: 50px;
+}
+
+.innerspan{
+	width: 1150px;
+	margin: auto;
+	height: 50%;
+	background:#316dc3;
+	padding-top: 4px;
+	line-height: 23px;
+	position: relative;
+	top: 7px;
+	font-size: 13px;
+
+}
+
+.teesrabox{
+
+	background: #f7f8fa;
+	width: auto;
+
+}
+
+
+.teesraboxkander{
+	width: 1000px;
+	margin: auto;
+	height: 740px;
+}
+
+.teesraboxkander h2{
+	font-family: serif;
+	font-size: 32px;
+	color: #316dc3;
+	text-align: center;
+	padding-top: 50px;
+}
+
+.teesraboxkander h2 span{
+	color:#427900;
+}
+
+.title_icon{
+	width: 70%;
+	height: 50px;
+	padding-left: 480px;
+	padding-top: 20px;
+}
+
+.text{
+	width: 100%;
+}
+
+.text p{
+	padding-left: 30px;
+	text-align: justify;
+	line-height: 30px;
+	color: #666666;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+
+.bluebar{
+	width: auto;
+	height: 280px;
+	background:#2655e8;
+}
+
+
+.innerbluebar{
+
+	width: 1150px;
+	margin: auto;
+	height: 100%;
+
+}
+
+.box{
+	float: left;
+	width: 280px;
+	height: 100%;
+	margin: 0 2px 0 2px;
+
+	
+}
+
+.box img{
+  padding-left: 120px;
+  padding-top: 65px;
+  padding-bottom: 20px;
+}
+
+.box h2{
+	text-align: center;
+}
+
+.box h4{
+	text-align: center;
+}
+
+.doing{
+	width: auto;
+	height: 580px;
+	background:#f7f8fa;
+}
+
+.inner_doing{
+	width: 1150px;
+	margin: auto;
+	height: 100%;
+
+}
+
+.title_icon2{
+	width: 70%;
+	height: 50px;
+	padding-left: 550px;
+	padding-top: 10px;
+}
+
+.box2{
+	float: left;
+	width: 340px;
+	background-color:#FFFFFF;
+	height: 160px;
+    margin: 10px 10px 20px 28px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.missions{
+	width: auto;
+	height: 400px;
+}
+
+.inner_missions{
+	width: 1150px;
+	margin: auto;
+	height: 100%;
+
+}
+
+
+.hepa{
+	width: 65%;
+	height: 100%;
+	float: left;
+}
+
+.upcoming{
+	float: left;
+	width: 35%;
+	height: 100%;
+}
+
+
+.box3{
+
+height: 80px;
+width: 350px;
+background-color: #f7f8fa;
+float: left;
+margin: 20px 13px 10px 10px;
+
+}
+
+
+.gallery{
+	width: auto;
+	height: 500px;
+}
+
+
+.inner_gallery{
+	width: 1150px;
+	margin: auto;
+	height: 100%;
+
+}
+
+.box4{
+	float: left;
+	height: 150px;
+	width: 220px;
+	margin-right: 4px;
+	margin-left: 4px;
+}
+
+.box4 img{
+	height: 150px;
+	width: 220px;
+}
+
+
+.footer{
+	width: auto;
+	height: 400px;	
+	background-color: #25272e;
+
+}
+
+.inner_footer{
+
+	width: 1150px;
+	margin: auto;
+	height: 100%;
+
+
+}
+
+.box5{
+	width: 380px;
+	float: left;
+	height: 100%;
+	margin-left: 2px;
+}
+
+
+
+.last_footer{
+
+	width: auto;
+	height: 50px;
+	background:#316dc3;	
+
+}
+
+.last_footer_inner{
+		width: 1150px;
+	margin: auto;
+	height: 100%;	
+
+}
